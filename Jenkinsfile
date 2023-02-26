@@ -13,7 +13,7 @@ pipeline {
       stage("Webhook test") {
         steps {
           sh 'uname -a'
-          sh 'whoami
+          sh 'whoami'
         }
       }
     }
