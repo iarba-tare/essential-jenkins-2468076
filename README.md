@@ -29,4 +29,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/jenkins-essential-training-17420152
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2468076/2468076-1652724717815-16x9.jpg
 
-http://139.177.181.143/buildStatus/icon?job=Pipeline_from_GH
+[![Build Status](http://139.177.181.143/buildStatus/icon?job=Pipeline_from_GH&build=6)](http://139.177.181.143/job/Pipeline_from_GH/6/)
